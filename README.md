@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik4444/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik4444/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -32,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kartik4444/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/kartik4444/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kartik4444/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
