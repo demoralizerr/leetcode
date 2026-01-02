@@ -1,28 +1,26 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(nums);
-         solve(0,nums,new ArrayList<>(), result);
+        Arrays.sort(nums);               // required
+        solve(0, nums, new ArrayList<>(), result);
         return result;
     }
 
-    public void solve(int index,int[] nums, List<Integer> current,List<List<Integer>> result ){
-              
-              //base case
-              if(index>=nums.length){
-                //check current set already present in result or not 
-                if(!result.contains(current)) result.add(new ArrayList<>(current));
-                return;
-              }
+    public void solve(int index, int[] nums,
+                      List<Integer> current,
+                      List<List<Integer>> result) {
 
-              //pick current num 
-              current.add(nums[index]);
-              solve(index+1,nums,current,result);
+        // add current subset (every node is a valid subset)
+        result.add(new ArrayList<>(current));
 
-              //backtrack remove last picked num
-              current.remove(current.size()-1);
-              //not pick current num
-              solve(index+1,nums,current,result);
+        for (int i = index; i < nums.length; i++) {
 
+            // skip duplicates at the same recursion level
+            if (i > index && nums[i] == nums[i - 1]) continue;
+
+            current.add(nums[i]);
+            solve(i + 1, nums, current, result);
+            current.remove(current.size() - 1); // backtrack
+        }
     }
 }
