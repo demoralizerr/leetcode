@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/kartik4444/leetcode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0682-baseball-game](https://github.com/kartik4444/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 ## Stack
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik4444/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/kartik4444/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/kartik4444/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
