@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/kartik4444/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kartik4444/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/kartik4444/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kartik4444/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kartik4444/leetcode/tree/master/0090-subsets-ii) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
