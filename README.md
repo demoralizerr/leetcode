@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
+| [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0031-next-permutation](https://github.com/kartik4444/leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
