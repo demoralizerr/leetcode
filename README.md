@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/kartik4444/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kartik4444/leetcode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/kartik4444/leetcode/tree/master/0682-baseball-game) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kartik4444/leetcode/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 ## Design
 |  |
 | ------- |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
