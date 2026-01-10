@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartik4444/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kartik4444/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/kartik4444/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kartik4444/leetcode/tree/master/0046-permutations) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kartik4444/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kartik4444/leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
