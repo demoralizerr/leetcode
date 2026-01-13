@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/kartik4444/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartik4444/leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kartik4444/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/kartik4444/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kartik4444/leetcode/tree/master/0155-min-stack) |
 ## Combinatorics
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
