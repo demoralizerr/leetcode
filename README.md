@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/kartik4444/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
+| [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/kartik4444/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kartik4444/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
+| [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartik4444/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
