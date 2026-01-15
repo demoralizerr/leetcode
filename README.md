@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/kartik4444/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3803-count-residue-prefixes](https://github.com/kartik4444/leetcode/tree/master/3803-count-residue-prefixes) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik4444/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3803-count-residue-prefixes](https://github.com/kartik4444/leetcode/tree/master/3803-count-residue-prefixes) |
 ## Depth-First Search
 |  |
 | ------- |
