@@ -3,38 +3,35 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
 
-        int[] merged = new int[m + n];
-        int l = 0;
-        int r = 0;
-        int idx = 0;
-        while (l < m && r < n) {
-            if (nums1[l] <= nums2[r]) {
-                merged[idx] = nums1[l];
-                l++;
+        int[] a = m <= n ? nums1 : nums2;
+        int[] b = m <= n ? nums2 : nums1;
+
+        int total = m + n;
+        int half = total / 2;
+
+        int low = 0, high = a.length;
+
+        while (true) {
+            int i = (low + high) / 2;
+            int j = half - i;
+
+            int aleft = i > 0 ? a[i - 1] : Integer.MIN_VALUE;
+            int aright = i < a.length ? a[i] : Integer.MAX_VALUE;
+
+            int bleft = j > 0 ? b[j - 1] : Integer.MIN_VALUE;
+            int bright = j < b.length ? b[j] : Integer.MAX_VALUE;
+
+            if (aleft <= bright && bleft <= aright) {
+                if (total % 2 == 0) {
+                    return (Math.max(aleft, bleft) + Math.min(aright, bright)) / 2.0;
+                } else {
+                    return Math.min(aright, bright);
+                }
+            } else if (aleft > bright) {
+                high = i - 1;
             } else {
-                merged[idx] = nums2[r];
-                r++;
+                low = i + 1;
             }
-
-            idx++;
         }
-
-        while (l < m) {
-            merged[idx] = nums1[l];
-            l++;
-            idx++;
-        }
-
-        while (r < n) {
-            merged[idx] = nums2[r];
-            r++;
-            idx++;
-        }
-        int mid = merged.length / 2;
-        if (merged.length % 2 != 0)
-            return merged[mid];
-
-        return (merged[mid] + merged[mid - 1]) / 2.0;
-
     }
 }
