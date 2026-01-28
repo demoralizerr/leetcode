@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartik4444/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartik4444/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kartik4444/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/kartik4444/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kartik4444/leetcode/tree/master/0141-linked-list-cycle) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/kartik4444/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartik4444/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kartik4444/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartik4444/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartik4444/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kartik4444/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
