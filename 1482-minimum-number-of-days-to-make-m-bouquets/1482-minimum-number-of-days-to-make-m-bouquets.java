@@ -26,7 +26,7 @@ class Solution {
             }
             if (flowers == k)
                 bq++;
-            if (bq == m) {
+            if (bq >= m) {
                 high = mid;
             } else
                 low = mid + 1;
