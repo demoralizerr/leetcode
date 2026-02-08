@@ -1,63 +1,58 @@
 class Twitter {
 
-    class Data {
-        int userId;
-        int tweetId;
-        int time;
-
-        public Data(int userId, int tweetId, int time) {
-            this.userId = userId;
-            this.tweetId = tweetId;
-            this.time = time;
-        }
-    }
-
-    private Queue<Data> maxheap;
-    private List<Data> allTweets;
-    private Map<Integer, List<Integer>> post;
-    private Map<Integer, List<Integer>> follow;
     private int time = 0;
+    private Map<Integer, List<int[]>> tweetMap;
+    private Map<Integer, Set<Integer>> followMap;
 
     public Twitter() {
-        maxheap = new PriorityQueue<>((a, b) -> b.time - a.time);
-        allTweets = new ArrayList<>();
-        post = new HashMap<>();
-        follow = new HashMap<>();
+        tweetMap = new HashMap<>();
+        followMap = new HashMap<>();
     }
 
     public void postTweet(int userId, int tweetId) {
-        time++;
-
-        if (!post.containsKey(userId)) {
-            post.put(userId, new ArrayList<>());
-        }
-        post.get(userId).add(tweetId);
-        allTweets.add(new Data(userId, tweetId, time));
+        tweetMap.computeIfAbsent(userId, k -> new ArrayList<>()).add(new int[] { time++, tweetId });
     }
 
     public List<Integer> getNewsFeed(int userId) {
-        List<Integer> topFeeds = new ArrayList<>();
-        List<Integer> following = follow.getOrDefault(userId, Collections.emptyList());
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> b[0] - a[0]);
+        List<Integer> res = new ArrayList<>();
+        Set<Integer> following = followMap.getOrDefault(userId, new HashSet<>());
+        Set<Integer> allRelevantIds = new HashSet<>(following);
+        allRelevantIds.add(userId);
 
-        for (int i = allTweets.size() - 1; i >= 0 && topFeeds.size() < 10; i--) {
-            Data d = allTweets.get(i);
-            if (d.userId == userId || following.contains(d.userId))
-                topFeeds.add(d.tweetId);
+        for (Integer id : allRelevantIds) {
+            List<int[]> tweets = tweetMap.get(id);
+            if (tweets != null && !tweets.isEmpty()) {
+                int lastIdx = tweets.size() - 1;
+                int[] tweet = tweets.get(lastIdx);
+
+                maxHeap.offer(new int[] { tweet[0], tweet[1], id, lastIdx });
+            }
         }
-        return topFeeds;
+        while (!maxHeap.isEmpty() && res.size() < 10) {
+            int[] curr = maxHeap.poll();
+            res.add(curr[1]);//add tweeId in result
+            int ownerId = curr[2];
+            int idx = curr[3];
+            // If this user has an older tweet (index > 0), push it into the heap
+            if (idx > 0) {
+                int[] olderTweet = tweetMap.get(ownerId).get(idx - 1);
+                maxHeap.offer(new int[] { olderTweet[0], olderTweet[1], ownerId, idx - 1 });
+            }
 
+        }
+        return res;
     }
 
     public void follow(int followerId, int followeeId) {
-        if (!follow.containsKey(followerId)) {
-            follow.put(followerId, new ArrayList<>());
-        }
-        follow.get(followerId).add(followeeId);
+        if (followerId == followeeId)
+            return;
+        followMap.computeIfAbsent(followerId, k -> new HashSet<>()).add(followeeId);
     }
 
     public void unfollow(int followerId, int followeeId) {
-        if (follow.containsKey(followerId) && followerId != followeeId) {
-            follow.get(followerId).remove(Integer.valueOf(followeeId));
+        if (followMap.containsKey(followerId)) {
+            followMap.get(followerId).remove(followeeId);
         }
     }
 }
