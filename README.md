@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik4444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kartik4444/leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kartik4444/leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kartik4444/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartik4444/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Combinatorics
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/kartik4444/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik4444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/kartik4444/leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartik4444/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartik4444/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik4444/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartik4444/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
