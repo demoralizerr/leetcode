@@ -19,7 +19,6 @@ class Solution {
             minheap.offer(new Data(trips[i][0], trips[i][1], trips[i][2]));
         }
 
-        //Queue<int[]> q = new LinkedList<>();
         Queue<int[]> q = new PriorityQueue<>((a, b) -> Integer.compare(a[1], b[1]));
 
         int dist = -1;
