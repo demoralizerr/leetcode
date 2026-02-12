@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik4444/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kartik4444/leetcode/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartik4444/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik4444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/kartik4444/leetcode/tree/master/0389-find-the-difference) |
+| [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/kartik4444/leetcode/tree/master/0767-reorganize-string) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartik4444/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/kartik4444/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/kartik4444/leetcode/tree/master/0767-reorganize-string) |
