@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/kartik4444/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/kartik4444/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartik4444/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kartik4444/leetcode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Design
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kartik4444/leetcode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
