@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/kartik4444/leetcode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/kartik4444/leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Stack
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kartik4444/leetcode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/kartik4444/leetcode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -497,4 +501,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/kartik4444/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
