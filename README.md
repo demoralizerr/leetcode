@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/kartik4444/leetcode/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/kartik4444/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/kartik4444/leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/kartik4444/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kartik4444/leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/kartik4444/leetcode/tree/master/0752-open-the-lock) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/kartik4444/leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/kartik4444/leetcode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/kartik4444/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/kartik4444/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kartik4444/leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
