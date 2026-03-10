@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/kartik4444/leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/kartik4444/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Interactive
 |  |
 | ------- |
