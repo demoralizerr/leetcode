@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/kartik4444/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
+| [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 | [0389-find-the-difference](https://github.com/kartik4444/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/kartik4444/leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartik4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/kartik4444/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik4444/leetcode/tree/master/0567-permutation-in-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kartik4444/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartik4444/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/kartik4444/leetcode/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/kartik4444/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/kartik4444/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kartik4444/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kartik4444/leetcode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/kartik4444/leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/kartik4444/leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/kartik4444/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
@@ -524,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/kartik4444/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kartik4444/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/kartik4444/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/kartik4444/leetcode/tree/master/0721-accounts-merge) |
@@ -539,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0070-climbing-stairs) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
