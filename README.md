@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartik4444/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
+| [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/kartik4444/leetcode/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/kartik4444/leetcode/tree/master/1405-longest-happy-string) |
+| [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
 ## Monotonic Queue
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kartik4444/leetcode/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kartik4444/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartik4444/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kartik4444/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartik4444/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/kartik4444/leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Prefix Sum
 |  |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## String Matching
 |  |
@@ -543,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/kartik4444/leetcode/tree/master/0721-accounts-merge) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
