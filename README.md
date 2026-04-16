@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kartik4444/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/kartik4444/leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/kartik4444/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [3827-count-monobit-integers](https://github.com/kartik4444/leetcode/tree/master/3827-count-monobit-integers) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/kartik4444/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Sorting
 |  |
 | ------- |
