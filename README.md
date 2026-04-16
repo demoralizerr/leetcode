@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3798-largest-even-number](https://github.com/kartik4444/leetcode/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/kartik4444/leetcode/tree/master/3803-count-residue-prefixes) |
+| [3884-first-matching-character-from-both-ends](https://github.com/kartik4444/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kartik4444/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3884-first-matching-character-from-both-ends](https://github.com/kartik4444/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
