@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3803-count-residue-prefixes](https://github.com/kartik4444/leetcode/tree/master/3803-count-residue-prefixes) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kartik4444/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [3827-count-monobit-integers](https://github.com/kartik4444/leetcode/tree/master/3827-count-monobit-integers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/kartik4444/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kartik4444/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kartik4444/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/kartik4444/leetcode/tree/master/0767-reorganize-string) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kartik4444/leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Data Stream
 |  |
 | ------- |
