@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3643-flip-square-submatrix-vertically](https://github.com/kartik4444/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/kartik4444/leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/kartik4444/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3904-smallest-stable-index-ii](https://github.com/kartik4444/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/kartik4444/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Stack
 |  |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/kartik4444/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Interactive
 |  |
 | ------- |
