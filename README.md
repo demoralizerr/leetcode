@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kartik4444/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
+| [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kartik4444/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Queue
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/kartik4444/leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Doubly-Linked List
 |  |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Shortest Path
 |  |
 | ------- |
