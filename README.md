@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/kartik4444/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/kartik4444/leetcode/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/kartik4444/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/kartik4444/leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Doubly-Linked List
 |  |
