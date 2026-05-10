@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kartik4444/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
+| [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kartik4444/leetcode/tree/master/0078-subsets) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kartik4444/leetcode/tree/master/0130-surrounded-regions) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kartik4444/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik4444/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
