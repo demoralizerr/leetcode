@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kartik4444/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/kartik4444/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartik4444/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kartik4444/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kartik4444/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kartik4444/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0070-climbing-stairs) |
