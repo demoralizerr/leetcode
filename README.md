@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kartik4444/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/kartik4444/leetcode/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/kartik4444/leetcode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/kartik4444/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kartik4444/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/kartik4444/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartik4444/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/kartik4444/leetcode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/kartik4444/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kartik4444/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kartik4444/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/kartik4444/leetcode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/kartik4444/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/kartik4444/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
