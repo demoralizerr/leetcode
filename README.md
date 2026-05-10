@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kartik4444/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kartik4444/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kartik4444/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3905-multi-source-flood-fill](https://github.com/kartik4444/leetcode/tree/master/3905-multi-source-flood-fill) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/kartik4444/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kartik4444/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/kartik4444/leetcode/tree/master/0721-accounts-merge) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kartik4444/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
