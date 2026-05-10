@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartik4444/leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/kartik4444/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartik4444/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kartik4444/leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/kartik4444/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik4444/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
