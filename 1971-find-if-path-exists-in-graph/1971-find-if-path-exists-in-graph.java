@@ -1,41 +1,36 @@
 class Solution {
-
-    private int[][] edges;
-    boolean[] visited;
-    private List<Integer>[] adj;
-
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        this.edges = edges;
-        this.visited = new boolean[n];
-        this.adj = new ArrayList[n];
+        List<List<Integer>> adj = new ArrayList<>();
+        boolean[] visited = new boolean[n];
 
         for (int i = 0; i < n; i++)
-            adj[i] = new ArrayList<>();
+            adj.add(new ArrayList<>());
 
         for (int[] edge : edges) {
-            adj[edge[0]].add(edge[1]);
-            adj[edge[1]].add(edge[0]);
+            int u = edge[0];
+            int v = edge[1];
+            adj.get(u).add(v);
+            adj.get(v).add(u);
         }
 
-        return dfs(n, source, destination);
-
-    }
-
-    public boolean dfs(int n, int source, int destination) {
-
-        if (source == destination)
-            return true;
-
+        Queue<Integer> q = new ArrayDeque<>();
+        q.offer(source);
         visited[source] = true;
 
-        for (int nei : adj[source]) {
-            if (!visited[nei]) {
-                if (dfs(n, nei, destination))
-                    return true;
+        while (!q.isEmpty()) {
+            int curr = q.poll();
+
+            if (curr == destination)
+                return true;
+
+            for (int nei : adj.get(curr)) {
+                if (!visited[nei]) {
+                    q.offer(nei);
+                    visited[nei] = true;
+                }
             }
         }
 
         return false;
-
     }
 }
