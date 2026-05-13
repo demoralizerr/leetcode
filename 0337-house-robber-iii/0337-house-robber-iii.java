@@ -13,35 +13,36 @@
  *     }
  * }
  */
-
 class Solution {
-
-    class Pair {
-        int rob;
-        int notrob;
-
-        Pair(int rob, int notrob) {
-            this.rob = rob;
-            this.notrob = notrob;
-        }
-    }
-
     public int rob(TreeNode root) {
-        Pair res = robber(root);
-        return Math.max(res.rob, res.notrob);
+        HashMap<TreeNode, Integer> dp = new HashMap<>();
+        return solve(root, dp);
     }
 
-    private Pair robber(TreeNode root) {
+    public int solve(TreeNode root, HashMap<TreeNode, Integer> dp) {
         if (root == null)
-            return new Pair(0, 0); // base case
+            return 0;
 
-        Pair lpair = robber(root.left);
-        Pair rpair = robber(root.right);
+        if (dp.containsKey(root))
+            return dp.get(root);
 
-        int maxpick = root.val + lpair.notrob + rpair.notrob;
-        int maxnotpick = Math.max(lpair.rob, lpair.notrob) + Math.max(rpair.rob, rpair.notrob);
+        int pick = root.val;
 
-        return new Pair(maxpick, maxnotpick);
+        if (root.left != null) {
+            pick += solve(root.left.left, dp);
+            pick += solve(root.left.right, dp);
+        }
+        if (root.right != null) {
+            pick += solve(root.right.left, dp);
+            pick += solve(root.right.right, dp);
+        }
+
+        int notpick = solve(root.left, dp) + solve(root.right, dp);
+
+        int result = Math.max(pick, notpick);
+        dp.put(root, result);
+
+        return result;
 
     }
 }
