@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/kartik4444/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kartik4444/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/kartik4444/leetcode/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/kartik4444/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kartik4444/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/kartik4444/leetcode/tree/master/0788-rotated-digits) |
