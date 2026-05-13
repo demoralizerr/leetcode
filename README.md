@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/kartik4444/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik4444/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/kartik4444/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/kartik4444/leetcode/tree/master/0767-reorganize-string) |
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/kartik4444/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/kartik4444/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kartik4444/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3803-count-residue-prefixes](https://github.com/kartik4444/leetcode/tree/master/3803-count-residue-prefixes) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/kartik4444/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/kartik4444/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/kartik4444/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Interactive
