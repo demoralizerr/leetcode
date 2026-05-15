@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/kartik4444/leetcode/tree/master/1929-concatenation-of-array) |
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kartik4444/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3592-inverse-coin-change](https://github.com/kartik4444/leetcode/tree/master/3592-inverse-coin-change) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/kartik4444/leetcode/tree/master/1405-longest-happy-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik4444/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 ## Trie
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/kartik4444/leetcode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/kartik4444/leetcode/tree/master/1143-longest-common-subsequence) |
+| [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kartik4444/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3592-inverse-coin-change](https://github.com/kartik4444/leetcode/tree/master/3592-inverse-coin-change) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1095-find-in-mountain-array](https://github.com/kartik4444/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartik4444/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/kartik4444/leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Prefix Sum
 |  |
