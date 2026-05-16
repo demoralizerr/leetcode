@@ -1,31 +1,34 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        Map<Integer, Integer> freq = new HashMap<>();
-        long sum = 0, maxSum = 0;
-        int left = 0;
 
-        for (int right = 0; right < nums.length; right++) {
-            int rVal = nums[right];
-            sum += rVal;
-            freq.put(rVal, freq.getOrDefault(rVal, 0) + 1);
+        int n = nums.length;
+        long maxsum = 0;
+        int i = 0;
+        long currsum =0;
+        Map<Integer, Integer> mp = new HashMap<>();
+        for (int j = 0; j < n; j++) {
+            //first add right item into sum
+            currsum += nums[j];
+            mp.put(nums[j], mp.getOrDefault(nums[j], 0) + 1);
 
-            if (right - left + 1 > k) {
-                int lVal = nums[left];
-                sum -= lVal;
-                int count = freq.get(lVal);
-                if (count == 1) {
-                    freq.remove(lVal);
-                } else {
-                    freq.put(lVal, count - 1);
-                }
-                left++;
+            //check window is valid or not
+            if (j - i + 1 > k) {
+                //shrink window
+                currsum = currsum - nums[i];
+                mp.put(nums[i], mp.get(nums[i]) - 1);
+                if (mp.get(nums[i]) == 0)
+                    mp.remove(nums[i]);
+
+                i++;
+
             }
 
-            if (right - left + 1 == k && freq.size() == k) {
-                maxSum = Math.max(maxSum, sum);
+            // 3. Update max if window is exactly size k and all elements are unique
+            if (j - i + 1 == k && mp.size() == k) {
+                maxsum = Math.max(maxsum, currsum);
             }
+
         }
-
-        return maxSum;
+        return maxsum;
     }
 }
