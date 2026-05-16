@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/kartik4444/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kartik4444/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/kartik4444/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/kartik4444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kartik4444/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/kartik4444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kartik4444/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kartik4444/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kartik4444/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/kartik4444/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartik4444/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartik4444/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
