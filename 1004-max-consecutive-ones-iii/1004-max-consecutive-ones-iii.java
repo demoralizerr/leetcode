@@ -10,6 +10,7 @@ class Solution {
                 currlen++;
 
             int numzero = right - left + 1 - currlen;
+            
             while (numzero > k) {
                 if (nums[left] == 1)
                     currlen--;
