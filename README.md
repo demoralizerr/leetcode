@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1095-find-in-mountain-array](https://github.com/kartik4444/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/kartik4444/leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/kartik4444/leetcode/tree/master/1340-jump-game-v) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartik4444/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/kartik4444/leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
+| [1340-jump-game-v](https://github.com/kartik4444/leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik4444/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0788-rotated-digits](https://github.com/kartik4444/leetcode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/kartik4444/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/kartik4444/leetcode/tree/master/1340-jump-game-v) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kartik4444/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
