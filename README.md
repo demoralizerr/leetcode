@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartik4444/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kartik4444/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik4444/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartik4444/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Trie
 |  |
 | ------- |
