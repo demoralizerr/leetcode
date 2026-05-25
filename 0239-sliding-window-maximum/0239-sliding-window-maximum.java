@@ -1,37 +1,27 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        List<Integer> list = new ArrayList<>();
-        ArrayDeque<Integer> q = new ArrayDeque<>(); // stores INDICES
         int n = nums.length;
-        int l = 0, r = 0;
-
-        while (r < n) {
-
-            // remove smaller elements from back
-            while (!q.isEmpty() && nums[r] > nums[q.peekLast()]) {
-                q.pollLast();
-            }
-            q.addLast(r);
-            r++;
-
-            // check window size
-            if (r - l == k) {
-
-                // front of deque is max
-                list.add(nums[q.peekFirst()]);
-
-                // remove element going out of window
-                if (q.peekFirst() == l) {
-                    q.pollFirst();
-                }
-                l++;
-            }
+        //heap will store[value,index]
+        PriorityQueue<int[]> maxheap = new PriorityQueue<>((a, b) -> Integer.compare(b[0], a[0]));
+        int left = 0;
+        int[] res = new int[n - k + 1];
+        for (int i = 0; i < k; i++) {
+            maxheap.add(new int[] { nums[i], i });
         }
+        res[0] = maxheap.peek()[0];
 
-        int[] result = new int[list.size()];
-        for (int i = 0; i < result.length; i++) {
-            result[i] = list.get(i);
+        for (int right = k; right < n; right++) {
+            //keep adding new item in maxheap
+            maxheap.add(new int[] { nums[right], right });
+
+            while (maxheap.peek()[1] <= right - k) {
+                maxheap.poll();
+            }
+
+            res[right - k + 1] = maxheap.peek()[0];
+
         }
-        return result;
+        return res;
+
     }
 }
