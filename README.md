@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/kartik4444/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kartik4444/leetcode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/kartik4444/leetcode/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/kartik4444/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kartik4444/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kartik4444/leetcode/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/kartik4444/leetcode/tree/master/0740-delete-and-earn) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kartik4444/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/kartik4444/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/kartik4444/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kartik4444/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
