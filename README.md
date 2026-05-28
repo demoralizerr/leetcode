@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/kartik4444/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kartik4444/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/kartik4444/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/kartik4444/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/kartik4444/leetcode/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/kartik4444/leetcode/tree/master/0389-find-the-difference) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kartik4444/leetcode/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/kartik4444/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 | [0389-find-the-difference](https://github.com/kartik4444/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/kartik4444/leetcode/tree/master/0394-decode-string) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/kartik4444/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kartik4444/leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/kartik4444/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/kartik4444/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartik4444/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kartik4444/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kartik4444/leetcode/tree/master/3093-longest-common-suffix-queries) |
