@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik4444/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kartik4444/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kartik4444/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kartik4444/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/kartik4444/leetcode/tree/master/0079-word-search) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartik4444/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kartik4444/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartik4444/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kartik4444/leetcode/tree/master/0018-4sum) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartik4444/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kartik4444/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartik4444/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartik4444/leetcode/tree/master/0053-maximum-subarray) |
