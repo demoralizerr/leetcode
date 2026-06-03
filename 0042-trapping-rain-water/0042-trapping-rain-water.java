@@ -1,23 +1,25 @@
 class Solution {
     public int trap(int[] height) {
-        Stack<Integer> s = new Stack<>();
+        //track continuos increasing items 
         int n = height.length;
-        int maxwater = 0;
-        for (int i = 0; i < n; i++) {
+        int left = 0;
+        int right = n - 1;
+        int leftmax = height[left];
+        int rightmax = height[right];
+        int totalWater = 0;
 
-            while (!s.isEmpty() && height[i] > height[s.peek()]) {
-                int mididx = s.pop();
-                if (s.isEmpty())
-                    break; // no left wall exist 
-                int leftidx = s.peek();
-                int rightidx = i;
-                int boundheight = Math.min(height[leftidx], height[rightidx]) - height[mididx];
-                int width = rightidx - leftidx -1;
-                if (boundheight > 0)
-                    maxwater += (boundheight * width);
+        while (left < right) {
+            if (leftmax < rightmax) {
+                left++;
+                leftmax = Math.max(leftmax, height[left]);
+                totalWater += leftmax - height[left];
+            } else {
+                right--;
+                rightmax = Math.max(rightmax, height[right]);
+                totalWater += rightmax - height[right];
             }
-            s.push(i);
         }
-        return maxwater;
+        return totalWater;
+
     }
 }
