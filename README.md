@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/kartik4444/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kartik4444/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/kartik4444/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/kartik4444/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/kartik4444/leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/kartik4444/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/kartik4444/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/kartik4444/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/kartik4444/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/kartik4444/leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartik4444/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Combinatorics
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/kartik4444/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kartik4444/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartik4444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/kartik4444/leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Tree
 |  |
 | ------- |
@@ -741,9 +744,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/kartik4444/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3161-block-placement-queries](https://github.com/kartik4444/leetcode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/kartik4444/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3161-block-placement-queries](https://github.com/kartik4444/leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
