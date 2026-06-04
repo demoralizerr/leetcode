@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kartik4444/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartik4444/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kartik4444/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kartik4444/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Queue
 |  |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3592-inverse-coin-change](https://github.com/kartik4444/leetcode/tree/master/3592-inverse-coin-change) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartik4444/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kartik4444/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
