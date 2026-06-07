@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2126-destroying-asteroids](https://github.com/kartik4444/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik4444/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kartik4444/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik4444/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/kartik4444/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kartik4444/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kartik4444/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik4444/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartik4444/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartik4444/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kartik4444/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0701-insert-into-a-binary-search-tree](https://github.com/kartik4444/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kartik4444/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kartik4444/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kartik4444/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
