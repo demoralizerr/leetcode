@@ -1,5 +1,3 @@
-# Interval Patterns Cheat Sheet
-
 ## 1. Merge Intervals
 
 ### When to think about it
