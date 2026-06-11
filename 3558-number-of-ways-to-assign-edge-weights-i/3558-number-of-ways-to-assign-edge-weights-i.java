@@ -15,7 +15,7 @@ class Solution {
             graph.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
         }
 
-        long depth = maxdepth(graph, 1, -1);
+        long depth = maxDepth(graph, 1);
         return (int) modPow(2, depth - 1, 1_000_000_007);
 
     }
@@ -34,19 +34,19 @@ class Solution {
         return res;
     }
 
-    public long maxdepth(Map<Integer, List<Integer>> graph, int node, int parent) {
-
-        if (visited.contains(node))
-            return 0;
-
+    public long maxDepth(Map<Integer, List<Integer>> graph, int node) {
         visited.add(node);
+
         long depth = 0;
+
         for (int nei : graph.getOrDefault(node, Collections.emptyList())) {
-            if (nei == parent)
+            if (visited.contains(nei))
                 continue;
 
-            depth = Math.max(depth, 1 + maxdepth(graph, nei, node));
+            depth = Math.max(depth, 1 + maxDepth(graph, nei));
         }
+
         return depth;
     }
+
 }
