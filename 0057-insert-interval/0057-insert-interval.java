@@ -1,35 +1,31 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        List<int[]> merged = new ArrayList<>();
-        List<int[]> finals = new ArrayList<>();
 
-        for (int[] i : intervals) {
-            merged.add(i);
-        }
-        merged.add(newInterval);
+        List<int[]> result = new ArrayList<>();
+        int i = 0;
+        int n = intervals.length;
 
-        merged.sort((a, b) -> Integer.compare(a[0], b[0]));
-
-        int[] prev = merged.get(0);
-        int start = prev[0];
-        int end = prev[1];
-
-        for (int i = 1; i < merged.size(); i++) {
-            int[] next = merged.get(i);
-            int newstart = next[0];
-            int newend = next[1];
-            if (newstart <= end) {
-                end = Math.max(end, newend);
-            } else {
-                finals.add(new int[] { start, end });
-                start = newstart;
-                end = newend;
-            }
+        // Add all intervals completely before newInterval
+        while (i < n && intervals[i][1] < newInterval[0]) {
+            result.add(intervals[i]);
+            i++;
         }
 
-        finals.add(new int[] { start, end });
+        // Merge all overlapping intervals
+        while (i < n && intervals[i][0] <= newInterval[1]) {
+            newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
+            newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
+            i++;
+        }
 
-        return finals.toArray(new int[finals.size()][]);
+        result.add(newInterval);
 
+        // Add remaining intervals
+        while (i < n) {
+            result.add(intervals[i]);
+            i++;
+        }
+
+        return result.toArray(new int[result.size()][]);
     }
 }
