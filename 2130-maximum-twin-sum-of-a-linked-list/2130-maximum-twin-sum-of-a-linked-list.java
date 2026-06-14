@@ -1,29 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public int pairSum(ListNode head) {
-        int len = 0;
-        ListNode curr = head;
 
+        ListNode slow = head;
+        ListNode fast = head;
+
+        //find middle node
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        //reverse second half 
+        ListNode curr = slow;
+        ListNode prev = null;
         while (curr != null) {
-            len++;
-            curr = curr.next;
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
 
-        int[] firstHalf = new int[len / 2];
-
-        curr = head;
-        for (int i = 0; i < len / 2; i++) {
-            firstHalf[i] = curr.val;
-            curr = curr.next;
-        }
-
+        // prev = head of reversed second half
         int max = 0;
-        int j = len / 2 - 1;
 
-        while (curr != null) {
-            max = Math.max(max, curr.val + firstHalf[j--]);
-            curr = curr.next;
+        ListNode p1 = head;
+        ListNode p2 = prev;
+
+        while (p2 != null) {
+            max = Math.max(max, p1.val + p2.val);
+            p1 = p1.next;
+            p2 = p2.next;
         }
 
         return max;
+
     }
 }
