@@ -1,11 +1,8 @@
 class Solution {
 
-    Set<Integer> visited;
+    public static final int MOD = 1_000_000_007;
 
     public int assignEdgeWeights(int[][] edges) {
-        int rows = edges.length;
-        int cols = edges[0].length;
-        this.visited = new HashSet<>();
         Map<Integer, List<Integer>> graph = new HashMap<>();
 
         for (int[] edge : edges) {
@@ -15,38 +12,32 @@ class Solution {
             graph.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
         }
 
-        long depth = maxDepth(graph, 1);
-        return (int) modPow(2, depth - 1, 1_000_000_007);
+        int maxdepth = getMaxDepth(graph, 1, -1);
 
+        return power(2, maxdepth - 1) % MOD;
     }
 
-    private long modPow(long base, long exp, long mod) {
-        long res = 1;
-
-        while (exp > 0) {
-            if ((exp & 1) == 1)
-                res = (res * base) % mod;
-
-            base = (base * base) % mod;
-            exp >>= 1;
-        }
-
-        return res;
-    }
-
-    public long maxDepth(Map<Integer, List<Integer>> graph, int node) {
-        visited.add(node);
-
-        long depth = 0;
-
+    public int getMaxDepth(Map<Integer, List<Integer>> graph, int node, int parent) {
+        int depth = 0;
         for (int nei : graph.getOrDefault(node, Collections.emptyList())) {
-            if (visited.contains(nei))
+            if (nei == parent)
                 continue;
 
-            depth = Math.max(depth, 1 + maxDepth(graph, nei));
+            depth = Math.max(depth, 1 + getMaxDepth(graph, nei, node));
         }
-
         return depth;
     }
 
+    public int power(int a, int b) {
+        if (b == 0)
+            return 1;
+
+        int half = power(a, b / 2);
+        int result = (int) (((long) half * half) % MOD);
+
+        if (b % 2 == 1)
+            result = (int) (((long) result * a) % MOD);
+
+        return result % MOD;
+    }
 }
