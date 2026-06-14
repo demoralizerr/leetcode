@@ -5,7 +5,7 @@ class TreeAncestor {
 
     public TreeAncestor(int n, int[] parent) {
         this.rows = n;
-        this.cols = (int) (Math.log(n) / Math.log(2)) + 1;
+        this.cols = Integer.SIZE - Integer.numberOfLeadingZeros(n) + 1;
         this.ancestor = new int[rows][cols];
 
         for (int[] row : ancestor)
