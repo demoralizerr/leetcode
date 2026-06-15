@@ -25,7 +25,6 @@ class Solution {
             graph.computeIfAbsent(v, k -> new ArrayList<>()).add(u);
         }
 
-        // 3. Kick off DFS from Node 1 (the problem specification root)
         dfs(graph, 1, -1);
 
         buildAncestorTable(rows, cols);
@@ -83,6 +82,7 @@ class Solution {
                 v = anc[v][power];
             }
         }
+
         return anc[u][0];
     }
 
