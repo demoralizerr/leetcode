@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kartik4444/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/kartik4444/leetcode/tree/master/1929-concatenation-of-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/kartik4444/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/kartik4444/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kartik4444/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik4444/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/kartik4444/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3798-largest-even-number](https://github.com/kartik4444/leetcode/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/kartik4444/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3838-weighted-word-mapping](https://github.com/kartik4444/leetcode/tree/master/3838-weighted-word-mapping) |
