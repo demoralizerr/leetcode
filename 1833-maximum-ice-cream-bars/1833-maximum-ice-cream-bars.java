@@ -1,17 +1,17 @@
 class Solution {
     public int maxIceCream(int[] costs, int coins) {
         Arrays.sort(costs);
-        int bars = 0;
-        int sum = 0;
+
+        int count = 0;
         for (int cost : costs) {
-
-            if (coins > 0 && cost <= coins) {
+            if (coins >= cost) {
                 coins = coins - cost;
-                bars++;
-            } else
-                break;
-
+                count++;
+            }
+            else
+              break;
         }
-        return bars == 0 ? 0 : bars;
+
+        return count;
     }
 }
