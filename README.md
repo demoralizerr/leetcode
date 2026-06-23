@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kartik4444/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3592-inverse-coin-change](https://github.com/kartik4444/leetcode/tree/master/3592-inverse-coin-change) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kartik4444/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartik4444/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kartik4444/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Doubly-Linked List
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1871-jump-game-vii](https://github.com/kartik4444/leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik4444/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kartik4444/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kartik4444/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Interactive
 |  |
