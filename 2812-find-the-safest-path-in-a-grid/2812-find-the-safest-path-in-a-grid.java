@@ -2,7 +2,7 @@ class Solution {
     public int ROWS;
     public int COLS;
     public boolean[][] visited;
-    public int[][] directions = { {1,0},{-1,0},{0,1},{0,-1} };
+    public int[][] directions = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
 
     public int maximumSafenessFactor(List<List<Integer>> grid) {
         this.ROWS = grid.size();
@@ -13,13 +13,7 @@ class Solution {
         for (int[] row : dist)
             Arrays.fill(row, -1);
 
-        bfs(dist,grid);
-
-        for (int i = 0; i < ROWS; i++) {
-            for (int j = 0; j < COLS; j++)
-                System.out.print(dist[i][j] + " ");
-            System.out.println();
-        }
+        bfs(dist, grid);
 
         int low = 0;
         int high = 2 * 400 + 1;
