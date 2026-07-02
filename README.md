@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kartik4444/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/kartik4444/leetcode/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kartik4444/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3592-inverse-coin-change](https://github.com/kartik4444/leetcode/tree/master/3592-inverse-coin-change) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kartik4444/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kartik4444/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3905-multi-source-flood-fill](https://github.com/kartik4444/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Design
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/kartik4444/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kartik4444/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3905-multi-source-flood-fill](https://github.com/kartik4444/leetcode/tree/master/3905-multi-source-flood-fill) |
 ## String Matching
@@ -765,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kartik4444/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/kartik4444/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -796,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Number Theory
 |  |
 | ------- |
