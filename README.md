@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kartik4444/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3592-inverse-coin-change](https://github.com/kartik4444/leetcode/tree/master/3592-inverse-coin-change) |
+| [3620-network-recovery-pathways](https://github.com/kartik4444/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kartik4444/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kartik4444/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/kartik4444/leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kartik4444/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kartik4444/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3592-inverse-coin-change](https://github.com/kartik4444/leetcode/tree/master/3592-inverse-coin-change) |
+| [3620-network-recovery-pathways](https://github.com/kartik4444/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kartik4444/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kartik4444/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kartik4444/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kartik4444/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/kartik4444/leetcode/tree/master/3161-block-placement-queries) |
+| [3620-network-recovery-pathways](https://github.com/kartik4444/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/kartik4444/leetcode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Prefix Sum
 |  |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1971-find-if-path-exists-in-graph](https://github.com/kartik4444/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/kartik4444/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kartik4444/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -796,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/kartik4444/leetcode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/kartik4444/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/kartik4444/leetcode/tree/master/1462-course-schedule-iv) |
+| [3620-network-recovery-pathways](https://github.com/kartik4444/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -807,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0399-evaluate-division](https://github.com/kartik4444/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/kartik4444/leetcode/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kartik4444/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/kartik4444/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
 | ------- |
