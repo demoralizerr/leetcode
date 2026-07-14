@@ -25,7 +25,6 @@ class Solution {
                 return 0;
         }
 
-        // Calculate flat 1D index
         int flatIndex = (index * 40401) + (gcd1 * 201) + gcd2;
 
         if (dp[flatIndex] != -1)
@@ -45,7 +44,6 @@ class Solution {
         return dp[flatIndex] = (int) ans;
     }
 
-    // Iterative GCD is slightly safer for deep recursion trees
     private int findGCD(int a, int b) {
         while (b != 0) {
             int temp = b;
