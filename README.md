@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/kartik4444/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kartik4444/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik4444/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kartik4444/leetcode/tree/master/0682-baseball-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/kartik4444/leetcode/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kartik4444/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/kartik4444/leetcode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kartik4444/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/kartik4444/leetcode/tree/master/0389-find-the-difference) |
 | [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kartik4444/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartik4444/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/kartik4444/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/kartik4444/leetcode/tree/master/0767-reorganize-string) |
