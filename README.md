@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik4444/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kartik4444/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik4444/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartik4444/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartik4444/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik4444/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/kartik4444/leetcode/tree/master/1871-jump-game-vii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik4444/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kartik4444/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik4444/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik4444/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartik4444/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik4444/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik4444/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
