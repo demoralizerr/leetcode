@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/kartik4444/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/kartik4444/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kartik4444/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/kartik4444/leetcode/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/kartik4444/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kartik4444/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik4444/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/kartik4444/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/kartik4444/leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/kartik4444/leetcode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kartik4444/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/kartik4444/leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/kartik4444/leetcode/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/kartik4444/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik4444/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/kartik4444/leetcode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/kartik4444/leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/kartik4444/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kartik4444/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/kartik4444/leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/kartik4444/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/kartik4444/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik4444/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -915,4 +919,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/kartik4444/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3161-block-placement-queries](https://github.com/kartik4444/leetcode/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kartik4444/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kartik4444/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
