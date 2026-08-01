@@ -1,23 +1,24 @@
 class Solution {
+    Integer[][] dp;
+
     public boolean predictTheWinner(int[] nums) {
         int n = nums.length;
-        return solve(nums, 1, 0, n - 1, 0, 0);
+        dp = new Integer[n][n];
+        return solve(nums, 0, n - 1) >= 0;
     }
 
-    public boolean solve(int[] nums, int turn, int low, int high, long p1score, long p2score) {
-        if (low > high) {
-            return p1score >= p2score;
+    private int solve(int[] nums, int low, int high) {
+        if (low == high) {
+            return nums[low];
         }
 
-        if (turn % 2 != 0) { //player 1 turn
-            boolean left = solve(nums, turn + 1, low + 1, high, p1score + nums[low], p2score);
-            boolean right = solve(nums, turn + 1, low, high - 1, p1score + nums[high], p2score);
-            return left || right;
-        } else { //player 2 turn
-            boolean left = solve(nums, turn + 1, low + 1, high, p1score, p2score + nums[low]);
-            boolean right = solve(nums, turn + 1, low, high - 1, p1score, p2score + nums[high]);
-            return left && right;
+        if (dp[low][high] != null) {
+            return dp[low][high];
         }
 
+        int takeLeft = nums[low] - solve(nums, low + 1, high);
+        int takeRight = nums[high] - solve(nums, low, high - 1);
+
+        return dp[low][high] = Math.max(takeLeft, takeRight);
     }
 }
