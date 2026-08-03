@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/kartik4444/leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik4444/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/kartik4444/leetcode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartik4444/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/kartik4444/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/kartik4444/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kartik4444/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/kartik4444/leetcode/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik4444/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/kartik4444/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kartik4444/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/kartik4444/leetcode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kartik4444/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1871-jump-game-vii](https://github.com/kartik4444/leetcode/tree/master/1871-jump-game-vii) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
@@ -927,4 +930,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/kartik4444/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartik4444/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
