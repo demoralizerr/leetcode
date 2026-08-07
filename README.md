@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-sorted-gcd-pair-queries](https://github.com/kartik4444/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartik4444/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik4444/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartik4444/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kartik4444/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kartik4444/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kartik4444/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0212-word-search-ii](https://github.com/kartik4444/leetcode/tree/master/0212-word-search-ii) |
 | [0980-unique-paths-iii](https://github.com/kartik4444/leetcode/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartik4444/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kartik4444/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik4444/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartik4444/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kartik4444/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kartik4444/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik4444/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartik4444/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik4444/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik4444/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartik4444/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik4444/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kartik4444/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartik4444/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartik4444/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartik4444/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kartik4444/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik4444/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
