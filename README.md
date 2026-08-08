@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kartik4444/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kartik4444/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartik4444/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartik4444/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kartik4444/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kartik4444/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kartik4444/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartik4444/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik4444/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kartik4444/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik4444/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartik4444/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik4444/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik4444/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartik4444/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartik4444/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik4444/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kartik4444/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kartik4444/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartik4444/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kartik4444/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik4444/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kartik4444/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
