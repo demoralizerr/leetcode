@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/kartik4444/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik4444/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kartik4444/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kartik4444/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartik4444/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/kartik4444/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/kartik4444/leetcode/tree/master/1871-jump-game-vii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kartik4444/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik4444/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik4444/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kartik4444/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kartik4444/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kartik4444/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/kartik4444/leetcode/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kartik4444/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Game Theory
@@ -976,4 +979,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kartik4444/leetcode/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kartik4444/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
