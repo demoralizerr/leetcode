@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/kartik4444/leetcode/tree/master/1929-concatenation-of-array) |
 | [1958-check-if-move-is-legal](https://github.com/kartik4444/leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik4444/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/kartik4444/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik4444/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kartik4444/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1840-maximum-building-height](https://github.com/kartik4444/leetcode/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartik4444/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik4444/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kartik4444/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartik4444/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartik4444/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik4444/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartik4444/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/kartik4444/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kartik4444/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2560-house-robber-iv](https://github.com/kartik4444/leetcode/tree/master/2560-house-robber-iv) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/kartik4444/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/kartik4444/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kartik4444/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kartik4444/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kartik4444/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -964,22 +968,26 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/kartik4444/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartik4444/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kartik4444/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartik4444/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kartik4444/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartik4444/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kartik4444/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kartik4444/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kartik4444/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
