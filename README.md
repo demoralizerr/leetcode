@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kartik4444/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kartik4444/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartik4444/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/kartik4444/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Queue
 |  |
 | ------- |
