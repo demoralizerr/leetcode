@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/kartik4444/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik4444/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/kartik4444/leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/kartik4444/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kartik4444/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik4444/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/kartik4444/leetcode/tree/master/1140-stone-game-ii) |
@@ -1009,4 +1010,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kartik4444/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kartik4444/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
