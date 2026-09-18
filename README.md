@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/kartik4444/leetcode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik4444/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartik4444/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartik4444/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/kartik4444/leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kartik4444/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kartik4444/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/kartik4444/leetcode/tree/master/1405-longest-happy-string) |
 | [1446-consecutive-characters](https://github.com/kartik4444/leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartik4444/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartik4444/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1598-crawler-log-folder](https://github.com/kartik4444/leetcode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/kartik4444/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/kartik4444/leetcode/tree/master/1871-jump-game-vii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/kartik4444/leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik4444/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/kartik4444/leetcode/tree/master/1340-jump-game-v) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartik4444/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik4444/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/kartik4444/leetcode/tree/master/1834-single-threaded-cpu) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/kartik4444/leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik4444/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1405-longest-happy-string](https://github.com/kartik4444/leetcode/tree/master/1405-longest-happy-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kartik4444/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kartik4444/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/kartik4444/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kartik4444/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
